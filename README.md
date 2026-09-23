@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="OpenLogo.png" alt="OpenGear Logo" width="200">
+  <img src="OpenLogo.png" alt="OpenGear Logo" width="300">
 </p>
 
 # OpenGear
