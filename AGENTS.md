@@ -1,3 +1,0 @@
-# OpenGear
-
-placeholder
